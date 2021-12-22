@@ -1,4 +1,4 @@
-
+package Plateau;
 public class Colonie extends Construction{
 	public Colonie(int x, int y ) {
 		//setLocation(new Location(x, y));

@@ -1,3 +1,4 @@
+import Plateau.Plateau;
 
 public class Test {
 

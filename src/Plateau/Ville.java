@@ -1,3 +1,4 @@
+package Plateau;
 
 public class Ville extends Construction{
 	public Ville(int x, int y ) {

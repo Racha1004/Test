@@ -1,3 +1,4 @@
+package Plateau;
 
 public class Location {
 	private int x;

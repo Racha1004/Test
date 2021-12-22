@@ -1,5 +1,8 @@
+package Plateau;
 import java.util.ArrayList;
 import java.util.Collections;
+
+import Jeu.Joueur;
 public class Plateau {
 	private Tuile[][] tuiles;
 	private Construction[][] constructions;

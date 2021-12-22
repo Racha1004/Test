@@ -1,4 +1,4 @@
-
+package Plateau;
 public class AreteLocation extends Location{
 	private int arete; // si elle est égale à 0 donc c"est l'arete droite , si elle est égale à 1 c"est l'arete haute
 	public AreteLocation(int x, int y, int a) {

@@ -1,3 +1,5 @@
+package Plateau;
+
 public class Tuile {
 	private final String type;
 	/*Les valeurs possible :     */

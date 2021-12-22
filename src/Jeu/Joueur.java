@@ -1,8 +1,12 @@
+package Jeu;
+
 import java.awt.Color;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map.Entry;
 
+import Plateau.CarteDev;
+import Plateau.Route;
 public class Joueur {
 
 	private final String nom;

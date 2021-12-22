@@ -1,3 +1,7 @@
+package Plateau;
+
+import Jeu.Joueur;
+
 
 public class Route {
 	private Joueur joueur=null;

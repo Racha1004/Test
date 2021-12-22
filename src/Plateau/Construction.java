@@ -1,3 +1,5 @@
+package Plateau;
+import Jeu.Joueur;
 
 public abstract class Construction {
 	private Joueur joueur=null;
